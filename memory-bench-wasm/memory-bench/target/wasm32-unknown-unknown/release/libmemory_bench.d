@@ -1,0 +1,1 @@
+/Users/bastiendolla/rayon/repos/blog/memory-benchmark/memory-bench-wasm/memory-bench/target/wasm32-unknown-unknown/release/libmemory_bench.rlib: /Users/bastiendolla/rayon/repos/blog/memory-benchmark/memory-bench-wasm/memory-bench/src/lib.rs

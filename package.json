@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "workspaces": ["memory-bench-ts", "memory-bench-wasm"]
+}

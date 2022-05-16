@@ -1,0 +1,14 @@
+[package]
+name = "memory-bench"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+wasm-bindgen = "0.2.80"
+malloc_size_of_derive = { version = "1.1.1", git="https://github.com/rayonapp/malloc_size_of_derive.git"}
+malloc_size_of = { version = "1.1.32", git = "https://github.com/rayonapp/malloc_size_of.git", default-features = false}

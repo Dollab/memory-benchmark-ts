@@ -1,0 +1,10 @@
+/Users/bastiendolla/rayon/repos/blog/memory-benchmark/memory-bench-wasm/memory-bench/target/release/deps/proc_macro2-2848a6cad325e825.rmeta: /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/bastiendolla/rayon/repos/blog/memory-benchmark/memory-bench-wasm/memory-bench/target/release/deps/libproc_macro2-2848a6cad325e825.rlib: /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/bastiendolla/rayon/repos/blog/memory-benchmark/memory-bench-wasm/memory-bench/target/release/deps/proc_macro2-2848a6cad325e825.d: /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs /Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs
+
+/Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/lib.rs:
+/Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/strnom.rs:
+/Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/fallback.rs:
+/Users/bastiendolla/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-0.4.30/src/wrapper.rs:
