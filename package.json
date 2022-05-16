@@ -1,4 +1,4 @@
 {
   "private": true,
-  "workspaces": ["memory-bench-ts", "memory-bench-wasm"]
+  "workspaces": ["memory-bench-wasm", "pdf-writer-test"]
 }
